@@ -37,7 +37,7 @@ Because there’s nothing greater we can offer someone than happiness.
 
 ## 🧩 Tech Stack
 
-- **Language**: Swift / SwiftUI  
+- **Language**: React native
 - **License**: AGPL-3.0 (strong copyleft for maximum openness)
 
 ---
